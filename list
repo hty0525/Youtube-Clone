@@ -1,0 +1,828 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "4HWJP03SS8ToOFOFhK1U59eZ7YU",
+  "nextPageToken": "CBgQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 27778,
+    "resultsPerPage": 24
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5eOVzW2XDhQdRvma81cS3bbIIkY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SfXRs6ZJiIc"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-24T01:16:21Z",
+        "channelId": "UCzFLDzS-auqZZo5dQ47IEMQ",
+        "title": "LX세미콘 주가 한 단계 더 뛰나, 손보익 성장동력 장착 호시탐탐 [CEO&amp;주가]",
+        "description": "완제품업계 종사자보다 트렌드를 잘 읽고 앞서야 성공할 수 있다.” 반도체 설계전문회사의 성공 키워드를 변화에 대응하는 것이라고 말한 손보익 사장이 시장 변화 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SfXRs6ZJiIc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SfXRs6ZJiIc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SfXRs6ZJiIc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "채널Who",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-24T01:16:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "u7RHHZ48eI1Xn3VkeT0vSnKlTEY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SpXXoMR622Q"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-05T01:50:07Z",
+        "channelId": "UCnfwIKyFYRuqZzzKBDt6JOA",
+        "title": "[오늘의 올림&#39;Pick&#39;] LX세미콘 vs 심텍 / 오늘의 올림&#39;Pick&#39; / 매일경제TV",
+        "description": "[오늘의 올림'Pick'] LX세미콘 vs 심텍 / 오늘의 올림'Pick' / 매일경제TV 정경민 IBK투자증권 분당센터 차장 김영민 mbn골드 매니저.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SpXXoMR622Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SpXXoMR622Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SpXXoMR622Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "매일경제TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-05T01:50:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "y29os4WbuMKOC25bKxagMtHduZA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZgSLse3an1I"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-01T01:58:08Z",
+        "channelId": "UC8Sv6O3Ux8ePVqorx8aOBMg",
+        "title": "DB하이텍, LX세미콘... 몸값 오르는 파운드리 업계, 주목할 수혜주는?_김지훈 훈훈한 주식 대표_이슈포커스 (20211101)",
+        "description": "Q. 파운드리 캐파 늘리는 반도체 기업… 현황은? Q. 역대 최고 매출 달성한 '삼성전자·SK하이닉스'? Q. IT업종 내 주목할 이슈는? Q. IT업종 내 주목할 관심주는?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZgSLse3an1I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZgSLse3an1I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZgSLse3an1I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "이데일리TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-01T01:58:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ky_5BnyoUWF-YxGdJ9DG0_eTZjc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mW4uy8SnbEc"
+      },
+      "snippet": {
+        "publishedAt": "2021-05-07T00:39:05Z",
+        "channelId": "UCVQB1rUbBv_tYBZe0lZm2ZQ",
+        "title": "국내 팹리스 기업 매출 1위! LX세미콘! 구 실리콘 웍스(Silicon Works)",
+        "description": "반도체 #실리콘웍스 #팹리스 BGM : Believer Silent Partner.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mW4uy8SnbEc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mW4uy8SnbEc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mW4uy8SnbEc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Semicon News",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-05-07T00:39:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wld6vOTlcjlNlKWFDFejZQvOZy8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "w70xQrRBjcY"
+      },
+      "snippet": {
+        "publishedAt": "2021-10-19T07:46:31Z",
+        "channelId": "UCF8AeLlUbEpKju6v1H6p8Eg",
+        "title": "LX세미콘 / 반도체 공급 부족 특수, 디스플레이구동칩(DDI) 가격 상승 / 송태현 유안타 여의도영업부 과장 / 증시하프타임 / 한국경제TV",
+        "description": "[LX세미콘] - 아이폰13 공급 부족…생산량 감소 우려 완화 - TSMC 실적 가이던스, DDI 가격 유지 기대감 - 3D TOF센서∙SIC 반도체 등 신사업 준비 출연 : 송태현 유 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/w70xQrRBjcY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/w70xQrRBjcY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/w70xQrRBjcY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "한국경제TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-10-19T07:46:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jAB4yhndYM9T5ZGdNEHjje8bwr0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tatdnX_iuwg"
+      },
+      "snippet": {
+        "publishedAt": "2021-07-15T06:29:49Z",
+        "channelId": "UCGHG_gTZ780LicZmc-WUVPQ",
+        "title": "LX세미콘 : DDI 공급부족 수혜 지속 - 김광진 연구원",
+        "description": "LX세미콘 #디스플레이 #유안타증권 담당 애널리스트가 분석한 내용을 생생하게 전달드립니다. 본 영상은 투자자의 투자를 권유 목적으로 촬영한것이 아니라 투자자 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tatdnX_iuwg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tatdnX_iuwg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tatdnX_iuwg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "유안타증권 元大證券",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-07-15T06:29:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "I2votk7b15RYyxB_T6a959or2c4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NSQrCd8a4LU"
+      },
+      "snippet": {
+        "publishedAt": "2021-09-21T01:00:05Z",
+        "channelId": "UCObt2003uET3w2W6T9jQgQg",
+        "title": "[LX세미콘](108320) - 국내 최고 반도체 팹리스 업체/디스플레이/시스템IC칩,DDI,/ARIS(아리스)/독립리서치/기업탐방",
+        "description": "ARIS(아리스) 연계 증권 계좌개설 하기◁ https://partner.shinhaninvest.com/acct/148087 ♧한국경제TV 출연♧ ARIS 독립리서치 이재모 대표 한국경제TV 출발증시 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NSQrCd8a4LU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NSQrCd8a4LU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NSQrCd8a4LU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ARIS투자아카데미",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-09-21T01:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Qe3vHIXWwfFSXQYharOer-a93Vk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "m_rdhWX35JE"
+      },
+      "snippet": {
+        "publishedAt": "2021-08-18T00:16:08Z",
+        "channelId": "UCc1C4tsjXcCpeyaS19_nGAA",
+        "title": "[주목397회] LX세미콘, 피크아웃 우려를 피해갈 IT 종목",
+        "description": "타이트한 DDI 수급 환경, 가격 증가세 지속 - OLED TV/스마트폰 생산량 확대 수혜 기대 - 올해 실적 기준 PER 5.8배, 주가 상승 여지 충분 - 목표가 230000원으로 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m_rdhWX35JE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m_rdhWX35JE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m_rdhWX35JE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "인포스탁데일리",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-08-18T00:16:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "L-1ihe2t47cAwP7ic21knZF9KBA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jV44sKf2NBk"
+      },
+      "snippet": {
+        "publishedAt": "2021-09-07T01:48:06Z",
+        "channelId": "UCnfwIKyFYRuqZzzKBDt6JOA",
+        "title": "[오늘의 올림&#39;Pick&#39;] 현대일렉트릭 vs LX세미콘 / 오늘의 올림&#39;Pick&#39; / 매일경제TV",
+        "description": "[오늘의 올림'Pick'] 현대일렉트릭 vs LX세미콘 / 오늘의 올림'Pick' / 정태근 알파프로 투자전략 팀장, 김영민 MBN gold 매니저/ 매일경제TV.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jV44sKf2NBk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jV44sKf2NBk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jV44sKf2NBk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "매일경제TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-09-07T01:48:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ftchf5yMHb9_kSw9GnOgeiYx7nQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wS49nNQrJBo"
+      },
+      "snippet": {
+        "publishedAt": "2021-08-18T08:57:02Z",
+        "channelId": "UC8Sv6O3Ux8ePVqorx8aOBMg",
+        "title": "LX세미콘(108320)... LG디스플레이 3조원 투자 최대 수혜 전망 / 인텔, TSMC 등 글로벌 톱업체들이 고객사_다크호스 히든 종목 (20210818)",
+        "description": "LX세미콘(108320) - 디스플레이 핵심부품 생산… 제품 라인업 확대 - PER 8배 수준으로 저평가 - LG디스플레이 3조원 투자 최대 수혜 전망 # 이진호 주식 닥터의 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wS49nNQrJBo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wS49nNQrJBo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wS49nNQrJBo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "이데일리TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-08-18T08:57:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JR-YDakCHB-UPuV9T0kYAPQCEmQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DRVvnC_mkrE"
+      },
+      "snippet": {
+        "publishedAt": "2021-10-01T18:24:37Z",
+        "channelId": "UCB1M--nnMH0uaAUtjf4OrLg",
+        "title": "[자소서맛집LIVE] &quot;LX세미콘&quot; 자소서 항목 분석",
+        "description": "마멘토와 함께 기업별 자기소개서 항목을 완벽하게 분석해보는 시간, [마멘토의 자소서맛집] 더빅스쿨 오카방에 참여하시면 다양한 취업 정보를 받으실 수 있습니다 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DRVvnC_mkrE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DRVvnC_mkrE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DRVvnC_mkrE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "더빅TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-10-01T18:24:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7pnZ-WfXvJV_sU-1eFkBdChsg6k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NMz8Vcfz6jU"
+      },
+      "snippet": {
+        "publishedAt": "2021-08-17T05:32:41Z",
+        "channelId": "UC8Sv6O3Ux8ePVqorx8aOBMg",
+        "title": "LX세미콘, 와이지엔터테인먼트, 대한항공, 현대해상_관심주 공장 (20210817)",
+        "description": "LX세미콘(108320) - OLED 구동칩 가격 인상 전망 - 고객사 다변화로 안정적 매출 증대 - 전장부품 시장 성장 기대감 #와이지엔터테인먼트(122870) - '블랙핑크' 활동 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NMz8Vcfz6jU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NMz8Vcfz6jU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NMz8Vcfz6jU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "이데일리TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-08-17T05:32:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "B7ClOhS2VA5fsLdtpUgFEIpvqU0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "J5s0DFexg8E"
+      },
+      "snippet": {
+        "publishedAt": "2021-07-21T23:55:39Z",
+        "channelId": "UC8Sv6O3Ux8ePVqorx8aOBMg",
+        "title": "와이지엔터테인먼트, 비츠로셀, 삼성바이오로직스, LX세미콘_황해수의 주력 종목 (20210722)",
+        "description": "황해수의 주력 종목 1. 와이지엔터테인먼트(122870) 2. 비츠로셀(082920) 3. 삼성바이오로직스(207940) 4. LX세미콘(108320) #와이지엔터테인먼트(122870) - 2 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/J5s0DFexg8E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/J5s0DFexg8E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/J5s0DFexg8E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "이데일리TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-07-21T23:55:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eagtAGk_MlQzTKo-O_kjfMp8sdw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "z4WnswkHBj0"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-30T14:55:59Z",
+        "channelId": "UCRIrpj2Ntw0o0eyWzmO42jw",
+        "title": "(자소서~7/6) &quot;실리콘웍스&quot; LG계열사 신입 인턴십 지원시 꼭 써야할 자소서 키워드는?_(수시채용 인턴십,20년)",
+        "description": "실리콘웍스,#LG,#인턴십,#자소서 (#반도체,#TV,#IT,#모바일) *자소서 작성시 이것만은 꼭! 1.상시 채용공고 및 자소서 문항별 빨리쓰기 2.기업분석 및 개인컨텐츠 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/z4WnswkHBj0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/z4WnswkHBj0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/z4WnswkHBj0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "자소서민도쌤",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-30T14:55:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yzj1zqNndlfUMAwXUpJ6HXICNVw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "F4y2h49zG6Y"
+      },
+      "snippet": {
+        "publishedAt": "2021-08-18T02:43:05Z",
+        "channelId": "UC8Sv6O3Ux8ePVqorx8aOBMg",
+        "title": "LIG넥스원, 한화시스템, LX세미콘, 트루윈, 하나금융지주, 현대해상, 셀트리온, 영화테크, KG케미칼, 한솔제지_스피드 종목 10 (20210818)",
+        "description": "유창희's pick - #LIG넥스원(079550) - #LX세미콘(108320) - #하나금융지주(086790) - #셀트리온(068270) - #KG케미칼(001390) # 정태근's pick - #한화 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/F4y2h49zG6Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/F4y2h49zG6Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/F4y2h49zG6Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "이데일리TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-08-18T02:43:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "n9NwblbpBj1eKig6euGNkKsqkKE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wPFHThnEiws"
+      },
+      "snippet": {
+        "publishedAt": "2021-10-14T07:07:51Z",
+        "channelId": "UCnfwIKyFYRuqZzzKBDt6JOA",
+        "title": "[이 종목이 수상하다?] 카카오 두산중공업 대원화성 심텍 LX세미콘 / 매일경제TV",
+        "description": "[이 종목이 수상하다?] 카카오 두산중공업 대원화성 심텍 LX세미콘 / 매일경제TV.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wPFHThnEiws/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wPFHThnEiws/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wPFHThnEiws/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "매일경제TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-10-14T07:07:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZQwgoV4iaOaPSZDtAi_1AhToTwI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "liiXh6tkLgs"
+      },
+      "snippet": {
+        "publishedAt": "2021-09-03T02:36:31Z",
+        "channelId": "UC8Sv6O3Ux8ePVqorx8aOBMg",
+        "title": "코오롱플라스틱, LX세미콘, 강원랜드, 교촌에프앤비, 삼성전기, SGC이테크건설, SK바이오사이언스, 한국공항, 더존비즈온, CJ프레시웨이_스피드 종목 10 (20210903)",
+        "description": "차영주's pick - #코오롱플라스틱(138490) - #강원랜드(035250) - #삼성전기(009150) - #SK바이오사이언스(302440) - #더존비즈온(012510) # 김상운's pick - #LX ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/liiXh6tkLgs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/liiXh6tkLgs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/liiXh6tkLgs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "이데일리TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-09-03T02:36:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Q-MQvQlMVT85gCiqU8M5SyIsw8w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "w_ynQw23F8M"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-23T08:17:05Z",
+        "channelId": "UCgJ5pT6S2NuTVP-6-AlLZew",
+        "title": "올해 가파른 상승세, 비메모리 내년 전망은 #LX세미콘",
+        "description": "진짜 쉬운 진단: 본방송 월-금 16:00~17:00 ▷토마토TV_유튜브 채널: http://bit.ly/2INI2ya ▷박준현 운용역 투자클럽: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/w_ynQw23F8M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/w_ynQw23F8M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/w_ynQw23F8M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tomato TV 토마토증권통",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-23T08:17:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NgyM0VGIou28KO1PLmVETGVuFvA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ve8C0Pw20Rg"
+      },
+      "snippet": {
+        "publishedAt": "2021-07-05T01:00:11Z",
+        "channelId": "UCD0k4Kq7SJROxxV-9N5v8IA",
+        "title": "[실리콘웍스] OLED 프리미엄 기대",
+        "description": "[실리콘웍스 - OLED 프리미엄 기대] - Q1.실리콘웍스, 기업 소개 및 수익구조는? - Q2.실리콘웍스가 생산하는 DDI에 대해 설명하자면?? - Q3.하반기 DDI 전망은 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ve8C0Pw20Rg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ve8C0Pw20Rg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ve8C0Pw20Rg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "마블TV [KB증권 M-able TV]",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-07-05T01:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1G40dTdune-4VP6iU-IE9sCy9es",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rnC8JpOhJLc"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-12T01:48:13Z",
+        "channelId": "UCgJ5pT6S2NuTVP-6-AlLZew",
+        "title": "[추천주] LX세미콘 #LX그룹 #DDI #반도체 #디스플레이",
+        "description": "마켓뷰 : 월~금 / 10:10~10:25 출연 : 전화 손영채 차장(신한금융투자 금정지점) ==================================== ▷ BJ 투데이 콜렉션 ▷LX ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rnC8JpOhJLc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rnC8JpOhJLc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rnC8JpOhJLc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tomato TV 토마토증권통",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-12T01:48:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dIGv_pbmB3yrgttCsso7Mqe99XA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Tly_ZWXqDew"
+      },
+      "snippet": {
+        "publishedAt": "2021-09-16T18:03:50Z",
+        "channelId": "UChiMvpFX7f23NXvjNKRhZrA",
+        "title": "LX 캠페인 - 상상한 모든 미래. LX로 연결되다",
+        "description": "당신의 미래는? 당신의 공간에 프리미엄 인테리어 #LX하우시스 기술에 첨단 반도체 설계 #LX세미콘 생활에 소재 솔루션 #LX MMA 세상에 글로벌 종합 물류 #LX판 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Tly_ZWXqDew/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Tly_ZWXqDew/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Tly_ZWXqDew/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LX Holdings",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-09-16T18:03:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "e7Vd0lPFD3THsTTLwW72Bw1BGS0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4sAPj7BfCt0"
+      },
+      "snippet": {
+        "publishedAt": "2021-01-24T06:00:00Z",
+        "channelId": "UCwawWbzEA48P9Uz9ity1GnA",
+        "title": "실리콘웍스 채용연계형인턴, 경력 채용공고 210201",
+        "description": "0. 취업준비 : 후불제(무제한첨삭+면접트레이닝+원하는곳 합격할때까지) https://youtu.be/e-b-ao13X-M #실리콘웍스 #LG채용 #묻지마지원 1. 초간단 자소서 작성 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4sAPj7BfCt0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4sAPj7BfCt0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4sAPj7BfCt0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "묻지마지원",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-01-24T06:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "70DWKs6izq6R-I5ZLItI4PFNo58",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WJjzJ_lyBVs"
+      },
+      "snippet": {
+        "publishedAt": "2021-08-19T22:24:58Z",
+        "channelId": "UClErHbdZKUnD1NyIUeQWvuQ",
+        "title": "[투자뉴스7] 환율 급등·외국인 매도 그 끝이 보인다!&quot;그래도 바닥은 확인&quot; / 머니투데이방송 (증시, 증권)",
+        "description": "08/20 출발! 성공투자 [투자뉴스7] (월~금) 오전 7시~7시 25분 ▷현대차, 성장 모멘텀 여전…조정은 매수 기회? ▷DDI 품귀에 웃은 LX세미콘…비중확대 유효?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WJjzJ_lyBVs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WJjzJ_lyBVs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WJjzJ_lyBVs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MTN 머니투데이방송",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-08-19T22:24:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rkvV_4CrSZDjVolfNS3BxMHBRs4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "K7M4b54RfMY"
+      },
+      "snippet": {
+        "publishedAt": "2021-08-24T05:28:04Z",
+        "channelId": "UCgJ5pT6S2NuTVP-6-AlLZew",
+        "title": "LX세미콘, 한국의 &#39;엔비디아&#39; &#39;노른자 기업&#39;..그러나 올라도 너무 올랐다 #LX세미콘",
+        "description": "부자왕 전문가 투자전략실 : https://bit.ly/32lX2dz ================================== 토마토 진단쇼 : 본방송 월-금 13:00~14:00 토마토TV_유튜브 채널: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/K7M4b54RfMY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/K7M4b54RfMY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/K7M4b54RfMY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tomato TV 토마토증권통",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-08-24T05:28:04Z"
+      }
+    }
+  ]
+}
